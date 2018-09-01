@@ -2,6 +2,8 @@
 
 ## [Stanford's 2011 Machine Learning Class (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 
+[Course Notes](https://github.com/leenamurgai/ml-class/blob/master/MLNotesLeena.pdf)
+
 1. Introduction
 2. Linear representation with one variable
 3. Linear representation with multiple variables
